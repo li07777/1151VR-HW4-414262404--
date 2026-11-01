@@ -96,9 +96,10 @@
 
 ### 七、成果截圖
 
-> 請將實際遊戲截圖上傳至儲存庫 `Screenshots/`，再把下列檔名替換成實際圖片名稱。
 
 **1. 遊戲場景與飛機飛行**
+<img width="2880" height="1710" alt="螢幕擷取畫面 2026-11-01 184647" src="https://github.com/user-attachments/assets/2d844770-89b2-4d2a-8100-eb0f6058dc3f" />
+
 
 <!-- ![遊戲場景](Screenshots/gameplay.png) -->
 
@@ -112,7 +113,7 @@
 
 **4. Game Over 畫面**
 
-<!-- ![Game Over](<img width="2880" height="1266" alt="image" src="https://github.com/user-attachments/assets/e4133805-f559-4c31-98d3-70a159716696" />) -->
+<img width="2880" height="1266" alt="image" src="https://github.com/user-attachments/assets/e4133805-f559-4c31-98d3-70a159716696" />) -->
 
 **5. You Win 畫面**
 
