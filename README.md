@@ -112,7 +112,7 @@
 
 **4. Game Over 畫面**
 
-<!-- ![Game Over](Screenshots/game-over.png) -->
+<!-- ![Game Over](<img width="2880" height="1266" alt="image" src="https://github.com/user-attachments/assets/e4133805-f559-4c31-98d3-70a159716696" />) -->
 
 **5. You Win 畫面**
 
