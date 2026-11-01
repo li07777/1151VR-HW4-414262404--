@@ -101,23 +101,24 @@
 <img width="2880" height="1710" alt="螢幕擷取畫面 2026-11-01 184647" src="https://github.com/user-attachments/assets/2d844770-89b2-4d2a-8100-eb0f6058dc3f" />
 
 
-<!-- ![遊戲場景](Screenshots/gameplay.png) -->
-
 **2. 星星與彩虹道具收集**
 
-<!-- ![道具收集](Screenshots/collectibles.png) -->
+<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/fdc43aa1-4aa2-4a49-9362-6263464f4806" />
+
 
 **3. 彩虹大型閃光特效**
+<img width="1568" height="884" alt="image" src="https://github.com/user-attachments/assets/8d5ac358-03f3-44c8-8640-800615c1ded4" />
 
-<!-- ![彩虹特效](Screenshots/rainbow-effect.png) -->
+<img width="1570" height="888" alt="image" src="https://github.com/user-attachments/assets/d0f1b6e2-7061-4f20-93f0-9afd8b3f865c" />
+
 
 **4. Game Over 畫面**
 
 <img width="2880" height="1266" alt="image" src="https://github.com/user-attachments/assets/e4133805-f559-4c31-98d3-70a159716696" />) -->
 
 **5. You Win 畫面**
+<img width="1584" height="880" alt="image" src="https://github.com/user-attachments/assets/716d2489-dacd-4f93-a97c-fb1e182ed94b" />
 
-<!-- ![You Win](Screenshots/you-win.png) -->
 
 ### 八、GitHub 與示範影片
 
