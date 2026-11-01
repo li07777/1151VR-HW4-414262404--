@@ -122,8 +122,8 @@
 
 ### 八、GitHub 與示範影片
 
-- **GitHub 專案：** `[https://github.com/li07777/1151VR-HW4-414262404--]`
-- **YouTube 遊戲操作影片：** `[https://youtu.be/wVxIA1nC5YY]`
+- **GitHub 專案：** [https://github.com/li07777/1151VR-HW4-414262404--]
+- **YouTube 遊戲操作影片：** [https://youtu.be/wVxIA1nC5YY]
 
 
 ### 十、製作心得
