@@ -82,6 +82,12 @@
 9. 設定終點 `FinishTrigger.cs`，測試過關及重新開始功能。
 10. 在 Unity Editor 中完整測試遊戲流程與介面。
 
+**製作過程中的問題與解決方式**
+
+製作彩虹收集道具時，原本嘗試加入旋轉、漂浮及發光效果，但因為模型的座標與旋轉中心設定問題，造成彩虹在場景中繞圈移動，因此最後改成固定位置的收集道具。
+
+此外，粒子特效曾經出現遊戲開始就自動播放、碰撞後沒有顯示，以及特效出現在飛機後方等問題。後來透過調整 Particle System 的 Play On Awake、特效生成位置與跟隨方式，成功讓彩虹在被收集時才觸發大型閃光效果。
+
 ### 六、使用的主要 C# 腳本
 
 | 腳本 | 功能 |
@@ -114,7 +120,7 @@
 
 **4. Game Over 畫面**
 
-<img width="2880" height="1266" alt="image" src="https://github.com/user-attachments/assets/e4133805-f559-4c31-98d3-70a159716696" />) -->
+<img width="2880" height="1266" alt="image" src="https://github.com/user-attachments/assets/e4133805-f559-4c31-98d3-70a159716696" />) 
 
 **5. You Win 畫面**
 <img width="1584" height="880" alt="image" src="https://github.com/user-attachments/assets/716d2489-dacd-4f93-a97c-fb1e182ed94b" />
