@@ -22,7 +22,7 @@
 
 玩家操作飛機在空中持續向前飛行，利用鍵盤控制左右方向與飛行高度，避開雲朵等障礙物，並在途中收集星星和彩虹道具取得分數。碰到障礙物後遊戲失敗；成功飛抵終點的彩色氣球拱門則過關。
 
-**操作方式（電腦版）：**
+**操作方式：**
 
 | 按鍵 | 功能 |
 |---|---|
@@ -118,20 +118,11 @@
 
 <!-- ![You Win](Screenshots/you-win.png) -->
 
-### 八、手機平台測試說明
+### 八、GitHub 與示範影片
 
-本專案曾嘗試透過 Windows 電腦搭配 iPhone 的 **Unity Remote 5** 進行手機畫面預覽與連線測試。Windows 的 iTunes 可以辨識 iPhone，但 Unity Remote 5 的畫面連線仍遇到問題。
+- **GitHub 專案：** `[https://github.com/li07777/1151VR-HW4-414262404--]`
+- **YouTube 遊戲操作影片：** `[https://youtu.be/wVxIA1nC5YY]`
 
-另外也了解 Unity Device Simulator 可以在 Unity Editor 中模擬手機畫面比例與介面配置，但這不等於將遊戲實際安裝到 iPhone。
-
-**目前未完成 iPhone 實機安裝，因此不將 Unity Remote／Device Simulator 視為正式 iOS Build 成果。**
-
-### 九、GitHub 與示範影片
-
-- **GitHub 專案：** `[請貼上 HW4 Repository 連結]`
-- **YouTube 遊戲操作影片：** `[請貼上影片連結]`
-
-影片建議展示飛機移動、閃避障礙、星星 +10、彩虹 +30 與閃光特效、GAME OVER、YOU WIN 及 Retry。
 
 ### 十、製作心得
 
